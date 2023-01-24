@@ -1,10 +1,10 @@
 current interests: 
 
-**webdev** - full stack distributed apps, microservices ™️ 
+**webdev** - full stack distributed apps, microservices ™️ 👨🏻‍💻
 
-**ai** - generative stuff, mostly around visuals + music
+**ai** - generative stuff, mostly around visuals + music 🎵 🤖
 
-**misc** - emulation, Rust, low level programming things
+**misc** - emulation, Rust, low level programming things 🎮
 
 <!--
 **mattpetters/mattpetters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
