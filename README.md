@@ -1,4 +1,4 @@
-## current interests: 
+currently interested in:
 
 - **webdev** - full stack distributed apps, microservices ™️ 👨🏻‍💻
 
