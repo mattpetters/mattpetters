@@ -2,7 +2,7 @@ currently interested in:
 
 - **webdev** - full stack distributed apps, microservices ™️ 👨🏻‍💻
 
-- **ai** - generative stuff, mostly around visuals + music 🎵 🤖 I'm also a dance music producer (another one)
+- **ai** - generative stuff, mostly around visuals + music 🎵 🤖 I'm also a dance music producer
 
 - **misc** - emulation, Rust, low level programming things 🎮
 
