@@ -1,0 +1,19 @@
+name: Weekly Stats
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs every 12 hours
+    - cron: "0 0 */2 * *"
+jobs:
+  update-readme:
+    name: Update this repo's README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          SHOW_TIME: true
+          SHOW_MASKED_TIME: true
+          LANG_COUNT: 10
+          SHOW_TITLE: true
