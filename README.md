@@ -1,4 +1,4 @@
-- 📫 How to reach me: DM me on Twitter or Linkedin
+- 📫 How to reach me: DM me on X or Linkedin
 
 🐦 : [@mattpetters_](https://x.com/mattpetters_)
 
